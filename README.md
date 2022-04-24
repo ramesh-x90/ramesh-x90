@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Languages and Tools:
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&&logoColor=white&style=plastic"/>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href = "" > <img src = "https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic"/> </a>
 
