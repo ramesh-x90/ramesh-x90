@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://gcc.gnu.org/" > <img src = "https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=plastic"/> </a>
 <a href = "https://gcc.gnu.org/" > <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=plastic"/> </a>
 <a href = "https://gcc.gnu.org/" > <img src = "https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=plastic"/> </a>
-<a href = "https://gcc.gnu.org/" > <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic"/> </a>
 <a href = "https://gcc.gnu.org/" > <img src = "https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=plastic"/> </a>
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramesh1212445&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
