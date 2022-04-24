@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <ul>
-            <script> alert("hi") </script>
+            <script>alert("hello")</script>
         </ul>
         <!-- Other embed HTML element/text into SVG -->
     </div>
