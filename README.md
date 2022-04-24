@@ -38,14 +38,4 @@ You can click the Preview link to take a look at your changes.
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh1212445&layout=compact&theme=github_dark)
 
 
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <script>alert("hello")</script>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
-    </div>
-</foreignObject>
-</svg>
 
