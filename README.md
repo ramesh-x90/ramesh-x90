@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://www.java.com/" > <img src = "https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic"/> </a>
 <a href = "https://kotlinlang.org/" > <img src = "https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=plastic"/> </a>
 <a href = "https://www.r-project.org/" > <img src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=plastic"/> </a>
-
+<a href = "https://dart.dev/" > <img src = "https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=plastic"/> </a>
 ###
 <a href = "https://www.android.com/" > <img src = "https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic"/> </a>
 <a href = "https://flutter.dev/" > <img src = "https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=plastic"/> </a>
