@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://www.mongodb.com/" > <img src = "https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic"/> </a>
 <a href = "https://nodejs.org/en/" > <img src = "https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic"/> </a>
 <a href = "https://firebase.google.com/" > <img src = "https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=plastic"/> </a>
+<a href = "https://www.arduino.cc/" > <img src = "https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=plastic"/> </a>
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramesh1212445&show_icons=true&theme=github_dark)
 ###
