@@ -43,6 +43,6 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramesh1212445&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ###
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh1212445&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh1212445&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
