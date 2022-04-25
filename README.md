@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://www.arduino.cc/" > <img src = "https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=plastic"/> </a>
 ####
 <a href = "https://opencv.org/" > <img src = "https://img.shields.io/badge/OpenCV-3776AB?&style=plastic&logo=opencv&logoColor=white"/> </a>
+<a href = "https://www.qt.io/" > <img src = "https://img.shields.io/badge/Qt-41CD52?&style=plastic&logo=qt&logoColor=white"/> </a>
 
 
 
