@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramesh1212445&theme=nord&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<!-- https://simpleicons.org/ -->
+
 ### Languages and Tools:
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white"/></a>
 <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=plastic"/></a>
