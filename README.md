@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=plastic"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&&logoColor=white&style=plastic"/>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/></a>
+<a href = https://www.typescriptlang.org/" > <img src = "https://img.shields.io/badge/TypeScript-3178C6?&style=plastic&logo=typescript&logoColor=white"/> </a>
 <a href = "https://www.cprogramming.com/" > <img src = "https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic"/> </a>
 <a href = "https://isocpp.org/" > <img src = "https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic"/> </a>
 <a href = "https://www.java.com/" > <img src = "https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic"/> </a>
