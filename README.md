@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- https://simpleicons.org/ -->
 
-### Languages and Tools:
+### Languages :
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white"/></a>
 <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=plastic"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&&logoColor=white&style=plastic"/>
@@ -23,11 +23,14 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://www.typescriptlang.org/" > <img src = "https://img.shields.io/badge/TypeScript-3178C6?&style=plastic&logo=typescript&logoColor=white"/> </a>
 <a href = "https://www.cprogramming.com/" > <img src = "https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic"/> </a>
 <a href = "https://isocpp.org/" > <img src = "https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic"/> </a>
+<a href = "https://learn.microsoft.com/en-us/dotnet/csharp/" > <img src = "https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=plastic"/> </a>
 <a href = "https://www.java.com/" > <img src = "https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic"/> </a>
 <a href = "https://kotlinlang.org/" > <img src = "https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=plastic"/> </a>
 <a href = "https://www.r-project.org/" > <img src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=plastic"/> </a>
 <a href = "https://dart.dev/" > <img src = "https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=plastic"/> </a>
+
 ###
+### Tools :
 <a href = "https://www.android.com/" > <img src = "https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic"/> </a>
 <a href = "https://flutter.dev/" > <img src = "https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=plastic"/> </a>
 <a href = "https://reactjs.org/" > <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=plastic"/> </a>
