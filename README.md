@@ -35,6 +35,8 @@ You can click the Preview link to take a look at your changes.
 
 # <div  align="center" >🏆 **GitHub Profile Trophies**</div>
 
+<br>
+
 <div  align="center" >
 <img src="https://github-profile-trophy.vercel.app/?username=ramesh-x90&theme=nord&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" />
 </div>
