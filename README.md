@@ -162,4 +162,8 @@ You can click the Preview link to take a look at your changes.
 
 ### ✍️ Random Dev Quote
 
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
