@@ -16,11 +16,21 @@
 # <div  align="center" >👋 **About Me**</div>
 
 👀 I’m interested in programming / Software Engineering<br>
-🔭 I’m currently working on [Industrial Waste Management System](https://github.com/ramesh-x90/EchoPlant-industrial-waste-management.git)<br>
+🔭 I’m currently working on
+<a href="https://github.com/ramesh-x90/EchoPlant-industrial-waste-management.git" target="_blank" rel="noreferrer">
+Industrial Waste Management System</a>
+<br>
 👯 I’m looking to collaborate on Web development, Mobile Application development<br>
-🌱 I’m currently learning [Nest.js](https://nestjs.com/)<br>
+🌱 I’m currently learning [Nest.js]
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+Nest.js
+</a>
+<br>
 💬 Ask me about Web development/ Mobile Application development/ Software engineering<br>
-📫 How to reach me [rameshshyaman@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=rameshshyaman@gmail.com&tf=cm)<br>
+📫 How to reach me
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=rameshshyaman@gmail.com&tf=cm" target="_blank" rel="noreferrer">
+rameshshyaman@gmail.com
+</a>
 
 <!-- 💞️ I’m looking to collaborate on ... -->
 
