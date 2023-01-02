@@ -17,18 +17,18 @@
 
 👀 I’m interested in programming / Software Engineering<br>
 🔭 I’m currently working on
-<a href="https://github.com/ramesh-x90/EchoPlant-industrial-waste-management.git" target="_blank">
+<a href="https://github.com/ramesh-x90/EchoPlant-industrial-waste-management.git" target="_blank" rel="noopener noreferrer nofollow">
 Industrial Waste Management System</a>
 <br>
 👯 I’m looking to collaborate on Web development, Mobile Application development<br>
 🌱 I’m currently learning
-<a href="https://nestjs.com/" target="_blank">
+<a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer nofollow">
 Nest.js
 </a>
 <br>
 💬 Ask me about Web development/ Mobile Application development/ Software engineering<br>
 📫 How to reach me
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=rameshshyaman@gmail.com&tf=cm" target="_blank">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=rameshshyaman@gmail.com&tf=cm" target="_blank" rel="noopener noreferrer nofollow">
 rameshshyaman@gmail.com
 </a>
 
