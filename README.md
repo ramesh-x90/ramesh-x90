@@ -15,14 +15,12 @@
 
 # <div  align="center" >👋 **About Me**</div>
 
-> 👀 I’m interested in programming / Software Engineering<br>
-> 🔭 I’m currently working on [Industrial Waste Management System]()<br>
-> 👯 I’m looking to collaborate on<br>
-> 🤝 I’m looking for help with<br>
-> 🌱 I’m currently learning [React.js](https://reactjs.org/) , [Next.js](https://nextjs.org/)<br>
-> 💬 Ask me about<br>
-> ⚡ Fun fact <br>
-> 📫 How to reach me ...<br>
+👀 I’m interested in programming / Software Engineering<br>
+🔭 I’m currently working on [Industrial Waste Management System](https://github.com/ramesh-x90/EchoPlant-industrial-waste-management.git)<br>
+👯 I’m looking to collaborate on Web development, Mobile Application development<br>
+🌱 I’m currently learning [Nest.js](https://nestjs.com/)<br>
+💬 Ask me about Web development/ Mobile Application development/ Software engineering<br>
+📫 How to reach me [rameshshyaman@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=rameshshyaman@gmail.com&tf=cm)<br>
 
 <!-- 💞️ I’m looking to collaborate on ... -->
 
