@@ -151,9 +151,15 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramesh-x90&theme=nord_dark)<br/><br>
+
 ![](https://github-readme-stats.vercel.app/api?username=ramesh-x90&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramesh-x90&theme=react&hide_border=true)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh-x90&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
 <br><br>
 
 </div>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
