@@ -1,5 +1,7 @@
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hi%2C%20I%E2%80%99m%20Ramesh&fontSize=90)
+  
 </div>
 
 <br>
